@@ -4,7 +4,7 @@ An interactive Problem Framing Canvas based on **MITRE's Look Inward / Look Outw
 
 ![Canvas View](https://img.shields.io/badge/view-Canvas%20Matrix-9B3B5A) ![Guided View](https://img.shields.io/badge/view-Guided%20Wizard-2E7D6F) ![Zero Dependencies](https://img.shields.io/badge/dependencies-zero-B8860B)
 
-<video src="https://github.com/avinashlingaloo/reframe-canvas/releases/download/v0.2.0/mitre-problem-facing-canvas.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/c73de786-f2c0-42e9-bb12-bc3b3350652b
 
 ## What It Does
 
